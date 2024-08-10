@@ -8,6 +8,7 @@ I'm a Full Stack Developer and an undergraduate at the University of Moratuwa. P
 
 * 🌍  I'm based in Matale
 * ✉️  You can contact me at [konara2021@gmail.com](mailto:konara2021@gmail.com)
+* ✉️ You can reach me on [sunerakonara.portfolio](https://sunerakonara.netlify.app/)
 
 ### Skills
 
