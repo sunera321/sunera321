@@ -22,7 +22,6 @@ I'm a Full Stack Developer and an undergraduate at the University of Moratuwa. P
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunera321&show_icons=true&locale=en&theme=radical" alt="sunera321" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunera321&theme=radical" alt="sunera321" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunera321&show_icons=true&locale=en&layout=compact&theme=radical" alt="sunera321" />
 </p>
 
